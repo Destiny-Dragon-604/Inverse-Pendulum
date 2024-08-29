@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: as5048b
+Version: 0.0.1
+Summary: Python Library for the AS5048B Absolute Magnetic Rotary Encoder
+Home-page: https://github.com/ansarid/as5048b
+License: UNKNOWN
+Description: # AS5048B
+        Python Library for the AS5048B Absolute Magnetic Rotary Encoder
+        
+        ## Install
+        
+        ### Pip Install
+        
+        ```bash
+        pip install as5048b
+        ```
+        
+        ### Manual Install
+        
+        ```bash
+        git clone https://github.com/ansarid/as5048b
+        cd as5048b
+        sudo python3 setup.py install
+        ```
+        
+Keywords: AS5048B,magnetic encoder,rotary encoder
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
